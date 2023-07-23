@@ -1,0 +1,5 @@
+*.sw[pqo]
+local
+.idea
+.vscode
+*.bak
